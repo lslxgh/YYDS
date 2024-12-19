@@ -127,7 +127,7 @@ dns:
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   default-nameserver: ['223.5.5.5', '119.29.29.29']
-  nameserver: ['211.138.245.180', '211.138.240.100']
+  nameserver: ['223.5.5.5', '119.29.29.29']
   nameserver-policy:
     '+.googlevideo.com': 'https://[2606:4700:4700::1111]/dns-query'
     'rule-set:microsoft,microsoft@cn': ['4.2.2.1', '4.2.2.2']
